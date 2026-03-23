@@ -1,0 +1,14 @@
+.favourite-empty {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.favourite-empty h2 {
+  color: var(--accent, #aa3bff);
+  margin-bottom: 1rem;
+}
+
+.favourite-empty p {
+  color: var(--text, #6b6375);
+  font-size: 1.1rem;
+}
